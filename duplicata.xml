@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="josf" fetch=".." />
+  <default remote="josf" revision="master" sync-s="true" sync-j="4" sync-c="true" />
+
+  <project name="react" path="oldtime/react" />
+  <project name="relay" path="oldtime/relay" />
+  <project name="strange-relay" path="strange/relay" />
+  <project name="redux" />
+</manifest>
