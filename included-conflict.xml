@@ -2,10 +2,6 @@
 <manifest>
   <remote  name="josf" fetch=".." />
   <default remote="josf" revision="master" sync-s="true" sync-j="4" sync-c="true" />
-
-  <project name="react" path="oldtime/react" />
-  <project name="relay" path="oldtime/relay" />
-  <project name="strange-relay" path="strange/relay-redux" />
-  <project name="redux" path="relay-redux" />
+  <project name="vue" path="vue/relay-redux" />
   <project name="angular.js" path="relay-angular" />
 </manifest>
