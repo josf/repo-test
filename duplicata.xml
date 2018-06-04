@@ -7,7 +7,7 @@
   <project name="relay" path="oldtime/relay" />
   <project name="strange-relay" path="strange/relay" />
   <project name="redux" path="relay-redux" />
-  <project name="angular.js" path="angular-relay" />
+  <project name="angular.js" path="oldtime-react" />
 
   
 </manifest>
