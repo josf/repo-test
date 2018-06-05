@@ -6,6 +6,10 @@
   <project name="react" path="oldtime/react" />
   <project name="relay" path="oldtime/relay" />
   <project name="strange-relay" path="strange/relay-redux" />
-  <project name="redux" path="relay-redux" />
+
+  <!-- The idea here is that we have a rename that appears when we do
+       a branch change. "redux" was something else before and now it
+       conflicts with "oldtime/relay". How will this work? -->
+  <project name="redux" path="a/new/rename/relay" />
   <project name="angular.js" path="relay-angular" />
 </manifest>
