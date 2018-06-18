@@ -2,4 +2,7 @@
 <manifest>
   <include name="duplicata.xml" />
   <include name="included-conflict.xml" />
+  <remove-project name="greffe" />
+  <project name="greffe" path="greffe" />
+  <project name="gmark" path="double/greffe" />
 </manifest>

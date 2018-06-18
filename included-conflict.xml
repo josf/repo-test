@@ -3,4 +3,5 @@
   <remote  name="josf" fetch=".." />
   <default remote="josf" revision="master" sync-s="true" sync-j="4" sync-c="true" />
   <project name="vue" path="vue/relay-redux" />
+  <project name="greffe" path="wrong/greffe" />
 </manifest>
